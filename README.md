@@ -22,6 +22,7 @@ Aplikasi konsol yang mensimulasikan pemrosesan berita secara asynchronous menggu
 Jalankan file `Main.kt` menggunakan Gradle command di terminal:
 ```bash
 ./gradlew run
+```
 
 ## Hasil Running Aplikasi
 ![Screenshot Output Terminal](screenshot.png)
